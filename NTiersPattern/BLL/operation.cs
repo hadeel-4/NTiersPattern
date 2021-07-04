@@ -10,6 +10,7 @@ namespace NTiersPattern.BLL
 {
    public class operation
    {
+        //ch
         public DataTable GetData()
         {
             try
